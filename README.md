@@ -4,7 +4,7 @@
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-FCFC19?style=flat-square&logo=javascript&logoColor=black)  ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/-CSS-239120?style=flat-square&logo=css3&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C Badge](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
-![React Nativev Badge](https://img.shields.io/badge/-React_Native-blue?style=flat-square&logo=React&logoColor=white) ![Reactjs Badge](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=React&logoColor=white) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
+![React Nativev Badge](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=React&logoColor=white) ![Reactjs Badge](https://img.shields.io/badge/-ReactJS-20232A?style=flat-square&logo=React&logoColor=white) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
 
 ![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 
