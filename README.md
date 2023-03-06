@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMathews&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RichardMathews&theme=compact&line_height=40&hide=css"/> </a>
 
 [![Email Badge](https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=richardmathewsa.silva@hotmail.com&su=SUBJECT&body=BODY&bcc=richardmathewsa.silva@hotmail.com)](https://mail.google.com/mail/?view=cm&fs=1&to=richardmathewsa.silva@hotmail.com&su=SUBJECT&body=BODY&bcc=richardmathewsa.silva@hotmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-mathews-537150185/)](https://www.linkedin.com/in/richard-mathews-537150185/) 
 
